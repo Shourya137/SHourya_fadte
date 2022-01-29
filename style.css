@@ -1,0 +1,23 @@
+.big_image{
+   border-radius: 100%;
+
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+  }
+  
+h4
+{
+    font-size: 20px;
+    font-family:cursive ;
+    font-weight: bold;
+}
+h6
+{
+ 
+   position: fixed;
+   font-size: 20px;
+ 
+}
